@@ -1,15 +1,15 @@
 {
   "name": "elevator",
-  "version": "2.2.1",
+  "version": "2.2.1A",
   "description": "Windows UAC elevation that just works",
   "main": "lib/elevator.js",
-  "homepage": "https://github.com/resin-io-modules/elevator",
+  "homepage": "https://github.com/antarasi/elevator/releases",
   "os": [
     "win32"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/resin-io-modules/elevator.git"
+    "url": "git@github.com:antarasi/elevator.git"
   },
   "directories": {
     "test": "tests"

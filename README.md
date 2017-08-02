@@ -3,10 +3,11 @@ elevator
 
 > Windows UAC elevation that just works.
 
-[![npm version](https://badge.fury.io/js/elevator.svg)](http://badge.fury.io/js/elevator)
-[![dependencies](https://david-dm.org/resin-io-modules/elevator.svg)](https://david-dm.org/resin-io-modules/elevator.svg)
-[![Build status](https://ci.appveyor.com/api/projects/status/ysweh6h4ed4ak114/branch/master?svg=true)](https://ci.appveyor.com/project/resin-io/elevator/branch/master)
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/resin-io/chat)
+Fixed an error caused by MSVCR120.ddl missing. Changed elevate binaries that does not require VC Redist 2013.
+
+Original repository:
+
+[https://github.com/resin-io-modules/elevator](https://github.com/resin-io-modules/elevator)
 
 Description
 -----------
